@@ -34,7 +34,7 @@ GIF created with [Recordit](http://www.https://recordit.co/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
